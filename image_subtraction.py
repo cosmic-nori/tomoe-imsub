@@ -22,7 +22,6 @@ from matplotlib.patches import Ellipse
 import matplotlib.patches as patches
 import pandas as pd
 import seaborn as sns
-from scipy import signal
 #---PythonPhot---#
 from PythonPhot import rdpsf
 #---my modules---#
